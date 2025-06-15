@@ -2,7 +2,6 @@
   "symbol": "INFY:NSE",
   "excel_file": "stock_prices.xlsx",
   "interval": 120,
-  "start_time": "21:00",
   "market_close_time": "15:30",
   "api_key":"xxxxx",
   "sender_email": "xxx",
